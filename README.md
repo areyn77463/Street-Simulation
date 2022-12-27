@@ -10,7 +10,7 @@ During the course of this project, I gained valuable experience in:
 ## Compiling and Running the Program
 To compile the program with g++, use the following command:
 
-`g++ -o street_light street_light.cpp`
+`g++ -o street_light main.cpp Road.cpp`
 
 To run the program, use the following command:
 
